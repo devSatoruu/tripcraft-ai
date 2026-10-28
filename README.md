@@ -11,7 +11,7 @@ The application features a responsive, ivory-and-sage interface inspired by trav
 
 **Live Website:** [TripCraft AI](https://tripcraft-ai-o4ad.onrender.com/)
 
-**GitHub Repository:** [thv-cyber/tripcraft-ai](https://github.com/thv-cyber/tripcraft-ai)
+**GitHub Repository:** [devSatoruu/tripcraft-ai](https://github.com/devSatoruu/tripcraft-ai)
 
 ---
 
