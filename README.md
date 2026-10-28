@@ -466,7 +466,7 @@ https://github.com/thv-cyber/tripcraft-ai
 
 ## Author
 
-Created by [thv-cyber](https://github.com/thv-cyber).
+Created by [devSatoruu](https://github.com/devSatoruu).
 
 TripCraft AI was developed as a hands-on full-stack portfolio project to practice frontend development, backend APIs, AI integration, responsive design, debugging, and deployment.
 
