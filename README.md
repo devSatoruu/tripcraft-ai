@@ -460,7 +460,7 @@ https://tripcraft-ai-o4ad.onrender.com/
 
 **Source Code:**
 
-https://github.com/thv-cyber/tripcraft-ai
+https://github.com/devSatoruu/tripcraft-ai
 
 ---
 
